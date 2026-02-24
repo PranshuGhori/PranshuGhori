@@ -1,16 +1,16 @@
-## Hi there 👋
+## Pranshu Ghori
 
-<!--
-**PranshuGhori/PranshuGhori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning | Mathematical Foundations | Data Analytics
 
-Here are some ideas to get you started:
+Currently studying:
+- Mathematical Foundations of ML 
+- Probabilistic Machine Learning
+- Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on:
+- ML from scratch
+- Statistical learning theory
+- Real-world ML systems
+
+Tech:
+Python | NumPy | Pandas | PyTorch | Scikit-Learn
